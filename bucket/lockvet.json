@@ -1,18 +1,18 @@
 {
-    "version": "0.6.14",
+    "version": "0.6.15",
     "description": "Explain any lockfile change: bumps, vulnerabilities (OSV.dev), release ages, deprecations, license changes - across 20+ lockfile formats and SBOMs",
     "homepage": "https://github.com/matteo-sung/lockvet",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/matteo-sung/lockvet/releases/download/v0.6.14/lockvet_v0.6.14_windows_amd64.zip",
-            "hash": "7b1925d722e8554900af93f74ac2960f20cb5d092256d208f59591764517ff8e",
-            "extract_dir": "lockvet_v0.6.14_windows_amd64"
+            "url": "https://github.com/matteo-sung/lockvet/releases/download/v0.6.15/lockvet_v0.6.15_windows_amd64.zip",
+            "hash": "cfb506075b18901655371397c86ffcacc18c9ba78458485f2098b1d6111802e9",
+            "extract_dir": "lockvet_v0.6.15_windows_amd64"
         },
         "arm64": {
-            "url": "https://github.com/matteo-sung/lockvet/releases/download/v0.6.14/lockvet_v0.6.14_windows_arm64.zip",
-            "hash": "16163f864d93d56ec5e400a9210bab7034c56cf4d62adfaf446591831b2271da",
-            "extract_dir": "lockvet_v0.6.14_windows_arm64"
+            "url": "https://github.com/matteo-sung/lockvet/releases/download/v0.6.15/lockvet_v0.6.15_windows_arm64.zip",
+            "hash": "d85964889f03166f5623ecb29999debddd7cf90f7518bda693cf947ec6be4ac8",
+            "extract_dir": "lockvet_v0.6.15_windows_arm64"
         }
     },
     "bin": "lockvet.exe",
